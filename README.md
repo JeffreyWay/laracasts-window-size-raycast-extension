@@ -2,7 +2,7 @@
 
 To install this [Raycast](https://www.raycast.com) custom script, follow these steps:
 
-1. Clone this repo: `git clone JeffreyWay/laracasts-screencast-window-size`
+1. Clone this repo: `git clone https://github.com/JeffreyWay/laracasts-window-size-raycast-extension.git`
 2. Open the Raycast prompt, type "Extensions," and press enter.
 4. Click the plus button in the menu bar.
 5. Click `Add Script Directory`.
